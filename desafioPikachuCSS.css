@@ -1,0 +1,70 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+
+
+
+
+.cajita1{
+    width: 264px;
+    background-color: orange;
+    border-radius: 15px;
+    display: inline-block;
+    border: black 2px solid;
+    position: static;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding: 0px;
+    
+    
+
+}
+
+img{
+    width: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.cajita2{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(251, 61, 4);
+    border-radius: 10px;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 3px;
+    border: black 2px solid;
+    position: absolute;
+    top: 35px; left: 110px;
+    
+    
+   
+}
+
+.textocajita1 {
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 130px;
+    text-align: justify;
+    font-weight: bold;
+    width: 250px;
+    padding: 0px;
+    font-size: small;
+    
+ 
+}
+
+
+
