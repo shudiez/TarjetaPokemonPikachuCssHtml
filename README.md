@@ -3,4 +3,4 @@
 ### Alejandro Zapata
 #### By Diez Yesica V.
 
-<td> <img src="https://github.com/shudiez/TarjetaPokemonPikachuCssHtml/blob/master/desafio%20pikachu.png" width="400px" /> </td>
+<td> <img src="https://github.com/shudiez/TarjetaPokemonPikachuCssHtml/IMG/desafio pikachu.png" width="400px" /> </td>
